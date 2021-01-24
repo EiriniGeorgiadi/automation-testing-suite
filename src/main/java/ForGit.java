@@ -1,7 +1,7 @@
 public class ForGit {
 
     public void change(){
-        //New Change
+        //New Change jhh
     }
 
 }
